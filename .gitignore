@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Temp/
 Library/
 *.sln
@@ -9,6 +10,8 @@ bin/
 ProjectSettings/ProjectSettings.asset
 ProjectSettings/ProjectVersion.txt
 =======
+=======
+>>>>>>> 9dc3aee45ad43da127cda1775f7e50ec0ef2d7cd
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -39,4 +42,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+<<<<<<< HEAD
 >>>>>>> abc95335e31b02ab74a13c9e92de299868e63cd7
+=======
+>>>>>>> 9dc3aee45ad43da127cda1775f7e50ec0ef2d7cd
